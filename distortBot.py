@@ -8,7 +8,7 @@ import subprocess
 import psutil
 import ffmpeg
 
-TOKEN = ""
+TOKEN = "1716270816:AAFS8kCt6zFs4uQkZjgZmPUwfamXNDCrxpE"
 GET_GIF = 0
 
 # Start command that explains the usage of the bot
